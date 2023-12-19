@@ -1,3 +1,3 @@
-module example/Golang
+module project-golang
 
 go 1.21.1
